@@ -20,6 +20,7 @@ int main() {
         for(int sp=1;sp<=(n-i);sp++) {
             cout<<" ";
         }
+        //stars
         for(int j=1;j<=i;j++){
             cout<<"* ";
         }
